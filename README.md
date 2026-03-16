@@ -1,2 +1,2 @@
-# writeups
-CTF Writeups
+# My Write-Ups
+- [TryHackMe Challenges](/thm)
